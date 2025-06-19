@@ -14,30 +14,30 @@ class Program
     {
         try
         {
-            Console.WriteLine("📥 Загружаем XML файл...");
+            Console.WriteLine("Загружаем XML файл...");
             await DownloadXmlAsync(Url, OutputFile);
 
-            Console.WriteLine("🔍 Обрабатываем данные...");
+            Console.WriteLine("Обрабатываем данные...");
             var groupIds = ExtractGroupIdsWithConditions(OutputFile);
 
             if (groupIds.Any())
             {
-                Console.WriteLine("✅ Найденные уникальные group_id:");
+                Console.WriteLine("Найденные уникальные group_id:");
                 foreach (var id in groupIds)
                 {
                     Console.WriteLine(id);
                 }
 
-                Console.WriteLine($"\n🔢 Общее количество: {groupIds.Count}");
+                Console.WriteLine($"\nОбщее количество: {groupIds.Count}");
             }
             else
             {
-                Console.WriteLine("❌ Совпадений не найдено");
+                Console.WriteLine("Совпадений не найдено");
             }
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"⚠️ Ошибка: {ex.Message}");
+            Console.WriteLine($"Ошибка: {ex.Message}");
         }
     }
 

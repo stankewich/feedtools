@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = imshop_v2_parsing
-build_property.ProjectDir = C:\Users\anatoly.stankevich\RiderProjects\imshop_v2_parsing\imshop_v2_parsing\
+build_property.ProjectDir = C:\Users\anatoly.stankevich\GithubProjects\feedtools\imshop_v2_parsing\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

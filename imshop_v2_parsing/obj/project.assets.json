@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anatoly.stankevich\\RiderProjects\\imshop_v2_parsing\\imshop_v2_parsing\\imshop_v2_parsing.csproj",
+      "projectUniqueName": "C:\\Users\\anatoly.stankevich\\GithubProjects\\feedtools\\imshop_v2_parsing\\imshop_v2_parsing.csproj",
       "projectName": "imshop_v2_parsing",
-      "projectPath": "C:\\Users\\anatoly.stankevich\\RiderProjects\\imshop_v2_parsing\\imshop_v2_parsing\\imshop_v2_parsing.csproj",
+      "projectPath": "C:\\Users\\anatoly.stankevich\\GithubProjects\\feedtools\\imshop_v2_parsing\\imshop_v2_parsing.csproj",
       "packagesPath": "C:\\Users\\anatoly.stankevich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anatoly.stankevich\\RiderProjects\\imshop_v2_parsing\\imshop_v2_parsing\\obj\\",
+      "outputPath": "C:\\Users\\anatoly.stankevich\\GithubProjects\\feedtools\\imshop_v2_parsing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anatoly.stankevich\\AppData\\Roaming\\NuGet\\NuGet.Config"

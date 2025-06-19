@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("imshop_v2_parsing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11c4b524dfdd95e07e97a144f99f08cecff35ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc6f3cdfea4e84bab5ed0b64a55afa024f8f8a2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("imshop_v2_parsing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imshop_v2_parsing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
