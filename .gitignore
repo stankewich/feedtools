@@ -1,0 +1,12 @@
+*.user
+*.suo
+bin/
+imshop_v2.xml
+obj/
+__MACOSX
+.DS_Store
+*.swp
+*.tmp
+*.log
+*.lock
+.vs/
